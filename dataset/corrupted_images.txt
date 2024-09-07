@@ -1,0 +1,14 @@
+dataset/covid19_dataset/normal/00000463_000.png
+dataset/covid19_dataset/normal/00000459_009.png
+dataset/covid19_dataset/normal/00000459_057.png
+dataset/covid19_dataset/normal/00000445_000.png
+dataset/covid19_dataset/normal/00000461_001.png
+dataset/covid19_dataset/normal/00000443_003.png
+dataset/covid19_dataset/normal/00000443_002.png
+dataset/covid19_dataset/normal/00000524_000.png
+dataset/covid19_dataset/normal/00000521_000.png
+dataset/covid19_dataset/normal/00000517_004.png
+dataset/covid19_dataset/normal/00000510_000.png
+dataset/covid19_dataset/normal/00000517_002.png
+dataset/covid19_dataset/normal/00000520_000.png
+dataset/covid19_dataset/normal/00000545_006.png
